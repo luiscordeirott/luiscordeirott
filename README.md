@@ -1,6 +1,6 @@
 # Olá, sou o Luis Thiago! 👋
 
-Sou **Designer Gráfico, estudante de UX/UI e profissional de mídias sociais** baseado no Brasil. Eu conecto o design visual estético a experiências digitais focadas no usuário. Quando não estou desenhando interfaces, você provavelmente vai me encontrar customizando meu ambiente Linux, gerenciando containers Docker ou mexendo no Blender.
+Sou **Designer Gráfico, estudante de UX/UI e profissional de mídias sociais** baseado no Brasil. Eu conecto o design visual estético a experiências digitais focadas no usuário...[wip]
 
 ---
 
