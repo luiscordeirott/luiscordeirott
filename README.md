@@ -8,8 +8,7 @@ Sou **Designer Gráfico, estudante de UX/UI e profissional de mídias sociais** 
 
 - 🎓 **Formação:** Cursando Bacharelado em Design / Comunicação (Previsão de Formatura: 2027).
 - 💼 **Cargo Atual:** Designer Gráfico e Criador de Conteúdo, desenvolvendo materiais visuais e estratégias de mídias sociais.
-- 🛠️ **Alumni:** Orgulhoso formado pelo programa de desenvolvimento profissional da **Plataforma PROA**.
-- ⚙️ **Ecossistema de OS:** Usando com orgulho um **sistema Linux baseado em Arch (Omarchy)** com o gerenciador de janelas **Hyprland** altamente customizado.
+- 🛠️ **Alumni:** Orgulhoso formado pelo programa de desenvolvimento profissional da **Plataforma PROA** e **Aspire Program**.
 
 ---
 
@@ -35,11 +34,21 @@ Sou **Designer Gráfico, estudante de UX/UI e profissional de mídias sociais** 
 
 ## 📁 Projetos em Destaque
 
-### 📱 **[inflow](https://github.com/yourusername/inflow)**
-Um aplicativo dedicado a estudos e foco, projetado para ajudar os usuários a entrarem em estado de *deep work* (trabalho profundo) e minimizar distrações digitais. *Conceito, UX/UI e branding desenvolvidos inteiramente por mim.*
+---
 
-### 🍜 **Sukiya UX Research & Redesign de Serviço**
-Um estudo de caso prático e acadêmico abrangente focado em analisar e redesenhar a experiência do usuário digital e a interface do site da marca de restaurantes Sukiya no Brasil.
+## 🎮 Além das Telas
 
-### 🏫 **Tech For High Schoolers (Proposta)**
-Uma proposta
+
+---
+
+## 📫 Conecte-se Comigo
+
+- 💼 **LinkedIn:** [linkedin.com/in/seu-perfil](https://linkedin.com/in/luiscordeirott)
+- 🌐 **Portfólio:** [Link para o seu Behance/Figma/Site](https://yourportfolio.com)
+- 📧 **E-mail:** [seu.email@exemplo.com](mailto:luis.cordeirott)
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=luiscordeirott&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
