@@ -35,14 +35,8 @@ I am a **Graphic Designer, UX/UI Student, and Social Media Professional** based 
 
 ## 📁 Featured Projects
 
-### 📱 **[inflow](https://github.com/yourusername/inflow)**
-A dedicated study and focus application designed to help users enter a state of deep work and minimize digital distractions. *Concept, UX/UI, and branding developed entirely by me.*
-
-### 🍜 **Sukiya UX Research & Service Redesign**
-A comprehensive academic and practical case study focused on analyzing and redesigning the digital user experience and website interface for the Sukiya restaurant brand in Brazil.
-
-### 🏫 **Tech For High Schoolers (Proposal)**
-An educational framework and curriculum proposal designed to introduce high school students to tech and essential life skills by leveraging open-source platforms like *The Odin Project* and *Khan Academy*.
+### 📱 **Nothing to see here**
+...
 
 ---
 
@@ -53,9 +47,9 @@ When I'm AFK, I host and maintain dedicated, heavily modded **Minecraft servers*
 
 ## 📫 Connect with Me
 
-- 💼 **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
+- 💼 **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com/in/luis.cordeirott@gmail.com)
 - 🌐 **Portfolio:** [Link to your Behance/Figma/Website](https://yourportfolio.com)
-- 📧 **Email:** [your.email@example.com](mailto:your.email@example.com)
+- 📧 **Email:** [your.email@example.com](mailto:luis.cordeirott@gmail.com)
 
 ---
 
