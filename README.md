@@ -28,9 +28,9 @@ Sou **Designer Gráfico, estudante de UX/UI e profissional de mídias sociais** 
 
 ### 🎨 Design & Motion
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Photoshop (Edição de Imagem)](https://img.shields.io/badge/Photoshop--_Imagem-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
-![Illustrator (Vetor)](https://img.shields.io/badge/Illustrator--_Vetor-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
-![Canva (Design Rápido)](https://img.shields.io/badge/Canva--_Templates-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=canva&logoColor=white)
 
 ### 📐 3D & Design Técnico
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
