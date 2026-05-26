@@ -1,16 +1,64 @@
-## Hi there 👋
+# Olá, I'm Luis Thiago! 👋
 
-<!--
-**luiscordeirott/luiscordeirott** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a **Graphic Designer, UX/UI Student, and Social Media Professional** based in Brazil. I bridge the gap between aesthetic visual communication and user-centric digital experiences. When I'm not designing interfaces, you'll probably find me customizing my Linux environment, managing Docker containers, or messing around in Blender.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 🎓 **Education:** Pursuing a Bachelor's Degree in Design / Communications (Expected Graduation: 2027).
+- 💼 **Current Role:** Graphic Designer & Content Creator, crafting visual assets and social media strategies.
+- 🛠️ **Alumnus:** Proud graduate of the **Plataforma PROA** professional development program.
+- ⚙️ **OS Ecosystem:** Proudly running an **Arch-based Linux system (Omarchy)** with a highly customized **Hyprland** window manager.
+
+---
+
+## 🛠️ My Tech & Design Stack
+
+### 🎨 Design & Motion
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
+![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+
+### 📐 3D & Technical Design
+![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
+<img src="https://img.shields.io/badge/Rhinoceros-5A5A5A?style=for-the-badge" alt="Rhino 3D" />
+
+### 💻 Dev, DevOps & SysAdmin
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+## 📁 Featured Projects
+
+### 📱 **[inflow](https://github.com/yourusername/inflow)**
+A dedicated study and focus application designed to help users enter a state of deep work and minimize digital distractions. *Concept, UX/UI, and branding developed entirely by me.*
+
+### 🍜 **Sukiya UX Research & Service Redesign**
+A comprehensive academic and practical case study focused on analyzing and redesigning the digital user experience and website interface for the Sukiya restaurant brand in Brazil.
+
+### 🏫 **Tech For High Schoolers (Proposal)**
+An educational framework and curriculum proposal designed to introduce high school students to tech and essential life skills by leveraging open-source platforms like *The Odin Project* and *Khan Academy*.
+
+---
+
+## 🎮 Beyond the Canvas
+When I'm AFK, I host and maintain dedicated, heavily modded **Minecraft servers** (running complex tech mods like *GregTech*) utilizing isolated Docker environments on Linux.
+
+---
+
+## 📫 Connect with Me
+
+- 💼 **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
+- 🌐 **Portfolio:** [Link to your Behance/Figma/Website](https://yourportfolio.com)
+- 📧 **Email:** [your.email@example.com](mailto:your.email@example.com)
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
