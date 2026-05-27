@@ -1,12 +1,12 @@
 # Olá, sou o Luis Thiago! 👋
 
-Sou **Designer Gráfico, estudante de UX/UI e profissional de mídias sociais** baseado no Brasil. Eu conecto o design visual estético a experiências digitais focadas no usuário...[wip]
+Sou um **Desenvolvedor/Designer** que conecta o design visual estético a experiências digitais focadas no usuário. Atualmente estou estudando UI/UX e tudo sobre Front-end!
 
 ---
 
 ## 🚀 Sobre Mim
 
-- 🎓 **Formação:** Cursando Bacharelado em Design / Comunicação (Previsão de Formatura: 2027).
+- 🎓 **Formação:** Cursando Bacharelado em Design
 - 💼 **Cargo Atual:** Designer Gráfico e Criador de Conteúdo, desenvolvendo materiais visuais e estratégias de mídias sociais.
 - 🛠️ **Alumni:** Orgulhoso formado pelo programa de desenvolvimento profissional da **Plataforma PROA** e **Aspire Program**.
 
